@@ -1,4 +1,4 @@
-+c# ANDROID OPEN SOURCE EXTENDED PROJECT 
+# ANDROID OPEN SOURCE EXTENDED PROJECT 
 ======================================
 A custom Android firmware exclusively for supporting devices whose
 OEM has been abandoned with latest software and security implementation.
@@ -16,6 +16,7 @@ command like this:
 
 ```bash
   repo init -u git://github.com/ExtendedOS/manifest.git -b pie
+...
   
 Then to sync up:
 ----------------
@@ -31,5 +32,4 @@ Finally to build:
   lunch aosp_device_codename-userdebug
   mka aosep -j$(nproc --all)
   where j$ denotes the number of available cores
-  for example mka aosep -j16 for a 16 core VPS
   ...
