@@ -1,5 +1,5 @@
 # ANDROID OPEN SOURCE EXTENDED PROJECT 
- ======================================
+ ============================================================================
 A custom Android firmware exclusively for supporting devices whose
 OEM has been abandoned with latest software and security implementation.
 
