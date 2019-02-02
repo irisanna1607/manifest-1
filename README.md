@@ -16,14 +16,15 @@ command like this:
 
 ```bash
   repo init -u git://github.com/ExtendedOS/manifest.git -b pie
-...
+```
   
-Then to sync up:
+# Then to sync up:
 ----------------
 
 ```bash
   repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
+
 Finally to build:
 -----------------
 
