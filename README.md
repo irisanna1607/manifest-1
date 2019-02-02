@@ -3,7 +3,7 @@
 A custom Android firmware exclusively for supporting devices whose
 OEM has been abandoned with latest software and security implementation.
 
-# CREDITS
+# Credits
 ---------
 nikhil sir
 neenu miss
@@ -25,7 +25,7 @@ command like this:
   repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 
-Finally to build:
+# Finally to build:
 -----------------
 
 ```bash
