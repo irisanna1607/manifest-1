@@ -34,3 +34,6 @@ command like this:
   mka aosep -j$(nproc --all)
   where j$ denotes the number of available cores
  ``` 
+
+## Report build issues
+- You can reach us via [Telegram]
