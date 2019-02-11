@@ -33,4 +33,4 @@ command like this:
   lunch aosp_device_codename-userdebug
   mka aosep -j$(nproc --all)
   where j$ denotes the number of available cores
-  ...
+ ``` 
