@@ -5,7 +5,7 @@ OEM has been abandoned with latest software and security implementation.
 
 # Credits
 ---------
-* [**Nikhil C R**](https://www.linkedin.com/in/nikhil-c-r-3457668)
+* [**Nikhil C R**](https://www.linkedin.com/in/nikhil-c-r-9153b162)
 * [**Neenu P A**](https://www.linkedin.com/in/neenu-p-a-291045b8)
 
 # How to Build?
